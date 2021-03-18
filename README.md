@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DestroyyerQ
+- ⭐ My favorite programming languages - JAVA, HTML, CSS, JAVASCRIPT, PYTHON
+- 📫 How to reach me: ¯\_(ツ)_/¯
