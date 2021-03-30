@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DestroyyerQ
 - ⭐ My favorite programming languages - JAVA, HTML, CSS, JAVASCRIPT, PYTHON
-- 🎥 My favorite series: Lupin
+- 🎥 My favorite series: Lupin, Prison Break
 - 📫 How to reach me: ( ͡° ͜ʖ ͡°)
