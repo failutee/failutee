@@ -17,7 +17,7 @@
 
 <br>
 
-<h1 align="center">Profile statistics</h1><hr>
+<h1 align="center">Profile statistics</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DestroyyerQ&theme=dracula&show_icons=true">
   <br>
