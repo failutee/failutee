@@ -15,9 +15,10 @@
 <div>
     <h1>Profile statistics ⭐</h1>
     <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=destroyyerq&show_icons=true&locale=en&theme=dark&count_private=true"
+        <img src="https://github-readme-stats.vercel.app/api?username=destroyyerq&show_icons=true&locale=en&theme=dark&count_private=true"
             alt="destroyyerq" />
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=destroyyerq&show_icons=true&locale=en&layout=compact&theme=dark"
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=destroyyerq&show_icons=true&locale=en&layout=compact&theme=dark"
             alt="destroyyerq" />
     </p>
 </div>
