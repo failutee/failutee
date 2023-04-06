@@ -1,24 +1,19 @@
-<div>
-    <img src="https://giffiles.alphacoders.com/126/1267.gif" alt="" style="width: 100px; height: 100px;">
-    <h1>Welcome to my Profile 👨‍💻</h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=failutee&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" />
 </div>
 
-<div>
-    <h3 align="left">My favorite languages</h3>
-    <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-                width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" width="40" height="40" /> </a> </p>
+---
+
+<div align="center">
+  <h4>My favorite languages</h4>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python" alt="My Skills" />
 </div>
 
-<div>
-    <h1>Profile statistics ⭐</h1>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=failutee&show_icons=true&locale=en&theme=dark&count_private=true"
-            alt="destroyyerq" />
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=failutee&show_icons=true&locale=en&layout=compact&theme=dark"
-            alt="destroyyerq" />
-    </p>
+---
+
+<div align="center">
+  <h4>IDE (Integrated Development Environment)</h4>
+  <img src="https://img.shields.io/badge/IntelliJ%20Idea-for--the--badge?style=for-the-badge&logo=intellij-idea&color=ff69b4" height="24px" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-for--the--badge?style=for-the-badge&logo=visual-studio-code&color=ff69b4" height="24px" />
+  <img src="https://img.shields.io/badge/PyCharm-for--the--badge?style=for-the-badge&logo=pycharm&color=ff69b4" height="24px" />
 </div>
