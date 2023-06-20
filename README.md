@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=failutee&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=failutee&theme=bear&hide_border=false" alt="GitHub Stats" />
 </div>
 
 ---
